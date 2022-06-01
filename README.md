@@ -1,2 +1,2 @@
 # DotNet.FindConflictingReferences
-FindConflictingReferences in assemblies
+Find Conflicting References in assemblies
