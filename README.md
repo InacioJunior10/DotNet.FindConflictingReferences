@@ -1,0 +1,2 @@
+# DotNet.FindConflictingReferences
+FindConflictingReferences in assemblies
